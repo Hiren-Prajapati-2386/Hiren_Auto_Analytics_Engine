@@ -1,0 +1,11 @@
+insight_id,type,indicator,entity,period,value,prev_value,change_pct,severity,explanation
+INS-0001,trend,anc_coverage,Ahmedabad,2026-08,69.0,85.0,-18.82,High,"anc_coverage in Ahmedabad changed by -18.8% compared to the previous month, exceeding the 2.47% threshold."
+INS-0002,trend,high_risk_cases,Ahmedabad,2026-08,13.0,10.0,30.0,High,"high_risk_cases in Ahmedabad changed by 30.0% compared to the previous month, exceeding the 2.47% threshold."
+INS-0003,trend,high_risk_cases,Surat,2026-08,12.0,13.0,-7.69,High,"high_risk_cases in Surat changed by -7.7% compared to the previous month, exceeding the 2.47% threshold."
+INS-0004,trend,high_risk_cases,Vadodara,2026-08,6.0,7.0,-14.29,High,"high_risk_cases in Vadodara changed by -14.3% compared to the previous month, exceeding the 2.47% threshold."
+INS-0005,trend,high_risk_cases,Rajkot,2026-08,14.0,15.0,-6.67,High,"high_risk_cases in Rajkot changed by -6.7% compared to the previous month, exceeding the 2.47% threshold."
+INS-0006,trend,anc_coverage,Mehsana,2026-08,42.0,84.0,-50.0,High,"anc_coverage in Mehsana changed by -50.0% compared to the previous month, exceeding the 2.47% threshold."
+INS-0007,trend,high_risk_cases,Mehsana,2026-08,28.0,11.0,154.55,High,"high_risk_cases in Mehsana changed by 154.5% compared to the previous month, exceeding the 2.47% threshold."
+INS-0008,trend,anc_coverage,Bhavnagar,2026-08,79.0,77.0,2.6,Low,"anc_coverage in Bhavnagar changed by 2.6% compared to the previous month, exceeding the 2.47% threshold."
+INS-0009,trend,high_risk_cases,Bhavnagar,2026-08,15.0,17.0,-11.76,High,"high_risk_cases in Bhavnagar changed by -11.8% compared to the previous month, exceeding the 2.47% threshold."
+INS-0010,correlation,institutional_delivery:immunization,All Selected,Overall,0.98,,,Medium,Strong correlation (0.98) detected between institutional_delivery and immunization.
